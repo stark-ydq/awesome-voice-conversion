@@ -2,7 +2,7 @@
 Here are some interesting papers in speech field which I collected, may they help you.
 ## Update Project
 
-:heavy_check_mark: Mancusi, Michele, et al. "**Latent Diffusion Bridges for Unsupervised Musical Audio Timbre Transfer.**" arXiv preprint arXiv:2409.06096 (2024). [[Paper]](https://arxiv.org/abs/2409.06096) [[Project]](https://github.com/sony/diffusion-timbre-transfer)
+:heavy_check_mark: Ma, Guobin, et al. "MeanVC: Lightweight and Streaming Zero-Shot Voice Conversion via Mean Flows." arXiv preprint arXiv:2510.08392 (2025).[[Paper]](https://arxiv.org/pdf/2510.08392) [[Project]](https://github.com/ASLP-lab/MeanVC)
 
 :heavy_check_mark: Biadsy, Fadi, et al. "**Zero-shot Cross-lingual Voice Transfer for TTS.**" arXiv preprint arXiv:2409.13910 (2024). [[Paper]](https://arxiv.org/pdf/2409.13910)
 
@@ -115,6 +115,8 @@ ZeroSpeech Challenge [[Home]](https://link.zhihu.com/?target=https%3A//zerospeec
 - **Audio-Style-Transfer** Neural Style Transfer for Audio Spectrograms
 
 ##### 4. Paper & Projects
+
+:heavy_check_mark: Ma, Guobin, et al. "MeanVC: Lightweight and Streaming Zero-Shot Voice Conversion via Mean Flows." arXiv preprint arXiv:2510.08392 (2025).[[Paper]](https://arxiv.org/pdf/2510.08392) [[Project]](https://github.com/ASLP-lab/MeanVC)
 
 :heavy_check_mark: Huang, Jiawei, et al. "**MulliVC: Multi-lingual Voice Conversion With Cycle Consistency.**" arXiv preprint arXiv:2408.04708 (2024). [[Paper]](https://arxiv.org/pdf/2408.04708)
 
